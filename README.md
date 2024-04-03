@@ -54,10 +54,12 @@ Developed by:Hari Priya.S RegisterNumber:212223220029
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/HARIPRIYASIVAKUMAR/ENCODER8TO3DATAFLOW/assets/147477684/2a09e0f0-06ef-47a8-aa73-46be6c22f44e)
+![image](https://github.com/HARIPRIYASIVAKUMAR/ENCODER8TO3DATAFLOW/assets/147477684/edf44d8a-02ef-4a34-9da5-8727218d24a3)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/HARIPRIYASIVAKUMAR/ENCODER8TO3DATAFLOW/assets/147477684/5fa63e23-6959-49fb-9cd9-07d652d09539)
+![image](https://github.com/HARIPRIYASIVAKUMAR/ENCODER8TO3DATAFLOW/assets/147477684/3fcb7504-0158-4cac-863b-5d6585fcdccc)
+
 
 **RESULTS**
 Therefore the code for encoder8to3 has been successfully executed.
